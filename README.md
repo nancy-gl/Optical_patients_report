@@ -22,7 +22,7 @@
           ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Data%20Model.png)
       
 # Visuals:
-* Added report pages for [Overview], [Appointment Center], and [Patient Detail].
+* Created report pages for [Overview], [Appointment Center], and [Patient Detail].
    1. [Overview] page
        * hid all pages except for [Overview] page 
        * added buttons for page navigation to [Appointment Center] report page
