@@ -1,5 +1,3 @@
-# Optical_patients_report
-
 # Details of the report
 # Data:
   *	The dataset comprises of date range for the year 2019 and 2020
