@@ -45,11 +45,11 @@
        *	added button to select a patient from the table to drill through the detail for the same
        *	added a Home Button to go back to the Overview page
 
-        ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Appointment%20Center.png)
+       ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Appointment%20Center.png)
 
        * Drill-through can also be achieved by right clicking on the rows on the Table visual as shown
 
-        ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Appointment%20Center%20drill-through.png)
+       ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Appointment%20Center%20drill-through.png)
 
   * [Patient Detail] page:
         *	used this page as a drill-through page to see the details for patients’ eye measurement 
@@ -59,4 +59,4 @@
         *	used Table visual to present patient’s appointment history, using data bars to represent a change in left or right eye measurement from the previous appointment
         *	added a Home Button to go back to previous page
 
-        ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Patient%20page.png)
+       ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Patient%20page.png)
