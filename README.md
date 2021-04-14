@@ -17,7 +17,7 @@
             * used parameter to get and set end date to Dec 31 of the year after this year
       * Added [Periods] table using Period Table M Code (Dynamic Date Range Slicer- Query M); adjusted for “current”, "today", "yesterday" and “previous” periods (week, month,  year)
       * The raw data in Excel looks like the following:
-      *
+      
            ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Excel%20Raw%20Data.png)
            
       * The Power BI model looks like the following:
