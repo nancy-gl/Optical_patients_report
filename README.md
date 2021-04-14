@@ -17,9 +17,12 @@
             * used parameter to get and set end date to Dec 31 of the year after this year
       * Added [Periods] table using Period Table M Code (Dynamic Date Range Slicer- Query M); adjusted for “current”, "today", "yesterday" and “previous” periods (week, month,  year)
       * The raw data in Excel looks like the following:
-          ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Excel%20Raw%20Data.png)
+      *
+           ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Excel%20Raw%20Data.png)
+           
       * The Power BI model looks like the following:
-          ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Data%20Model.png)
+      
+           ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Data%20Model.png)
       
 ## Visuals:
 * Created report pages for [Overview], [Appointment Center], and [Patient Detail].
@@ -34,17 +37,17 @@
         ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Overview%20page.png)
         
   * [Appointments Center] page:
-        *	used same flow of card and bar chart to follow the overview
-        *	used Today’s Date card visual to compare the date from todays date
-        *	used Slicer visuals to make selection for Age, Patient Name, Opticians and Period
-        *	used Chiclet Slicer custom visual to select Status {Overdue, Scheduled, or Today} of Appointments
-        *	used Table visual for the details of the Patient, with the Action for the reminder
-        *	added button to select a patient from the table to drill through the detail for the same
-        *	added a Home Button to go back to the Overview page
+       *	used same flow of card and bar chart to follow the overview
+       *	used Today’s Date card visual to compare the date from todays date
+       *	used Slicer visuals to make selection for Age, Patient Name, Opticians and Period
+       *	used Chiclet Slicer custom visual to select Status {Overdue, Scheduled, or Today} of Appointments
+       *	used Table visual for the details of the Patient, with the Action for the reminder
+       *	added button to select a patient from the table to drill through the detail for the same
+       *	added a Home Button to go back to the Overview page
 
         ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Appointment%20Center.png)
-        
-        * drill-through can also be achieved by right clicking on the rows on the Table visual as shown
+
+       * Drill-through can also be achieved by right clicking on the rows on the Table visual as shown
 
         ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Appointment%20Center%20drill-through.png)
 
