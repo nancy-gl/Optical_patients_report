@@ -52,11 +52,11 @@
        ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Appointment%20Center%20drill-through.png)
 
   * [Patient Detail] page:
-        *	used this page as a drill-through page to see the details for patients’ eye measurement 
-        *	used Card visuals to highlight the Appointment Details, and a multi-row card to display the personal information for the selected patient
-        *	set “Patient Name as” drill-through target
-        *	used line chart to see the trend and change in patient eye measurement value till date
-        *	used Table visual to present patient’s appointment history, using data bars to represent a change in left or right eye measurement from the previous appointment
-        *	added a Home Button to go back to previous page
+       *	used this page as a drill-through page to see the details for patients’ eye measurement 
+       *	used Card visuals to highlight the Appointment Details, and a multi-row card to display the personal information for the selected patient
+       *	set “Patient Name as” drill-through target
+       *	used line chart to see the trend and change in patient eye measurement value till date
+       *	used Table visual to present patient’s appointment history, using data bars to represent a change in left or right eye measurement from the previous appointment
+       *	added a Home Button to go back to previous page
 
        ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Patient%20page.png)
