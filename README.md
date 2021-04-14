@@ -1,9 +1,9 @@
 # Details of the report
-# Data:
+## Data Setup:
   *	The dataset comprises of date range for the year 2019 and 2020
   *	After importing the Excel file into Power BI, performed the cleansing of data in Power Query Editor and created data model as follows
 
-# Data Model:
+## Data Model:
   * Imported [Optical Data Set.xlsx] as a staging query, and created references in new [Data Model] group for [Patients], [Opticians], [Appointments]
      1.	[Patients] table:
         * Removed duplicates
@@ -21,7 +21,7 @@
       6. The Power BI model looks like the following:
           ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Data%20Model.png)
       
-# Visuals:
+## Visuals:
 * Created report pages for [Overview], [Appointment Center], and [Patient Detail].
    1. [Overview] page
        * hid all pages except for [Overview] page 
