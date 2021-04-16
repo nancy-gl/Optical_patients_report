@@ -64,4 +64,4 @@
 
        ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Patient%20page.png)
 
-[Click to view the report on the web](https://app.powerbi.com/reportEmbed?reportId=548672cd-2145-4f7a-9051-7abb8f184cb4&autoAuth=true&ctid=3fb43f9e-f396-473f-bdb4-7b116a3228ce&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtYi1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
+## [Click here to view the report on the web](https://app.powerbi.com/reportEmbed?reportId=548672cd-2145-4f7a-9051-7abb8f184cb4&autoAuth=true&ctid=3fb43f9e-f396-473f-bdb4-7b116a3228ce&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtYi1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
